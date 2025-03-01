@@ -17,10 +17,10 @@ Design responsivo: Se ajusta a diferentes tamanhos de tela.
 CSS personalizável: Fácil de mudar as cores e estilos.
 
 Como Usar
-Baixe o projeto: Clique no botão verde "Code" e selecione "Download ZIP". Depois, extraia os arquivos em uma pasta no seu computador.
+1. Baixe o projeto: Clique no botão verde "Code" e selecione "Download ZIP". Depois, extraia os arquivos em uma pasta no seu computador.
 
-Clone o repositório: Se preferir, use o Git para clonar o repositório. Execute o comando git clone https://github.com/pietros133/my-social-links-project.git.
+2. Clone o repositório: Se preferir, use o Git para clonar o repositório. Execute o comando git clone https://github.com/pietros133/my-social-links-project.git.
 
-Navegue até a pasta: Abra a pasta onde os arquivos foram extraídos ou clonados.
+3. Navegue até a pasta: Abra a pasta onde os arquivos foram extraídos ou clonados.
 
-Abra o arquivo: Clique duas vezes no arquivo index.html para abri-lo em seu navegador.
+ 4. Abra o arquivo: Clique duas vezes no arquivo index.html para abri-lo em seu navegador.
