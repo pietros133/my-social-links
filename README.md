@@ -1,9 +1,7 @@
 # my-social-links🧑‍💻
-Projeto de Links Sociais
-Este projeto contém links para várias redes sociais, feitos com HTML e CSS. Ideal para quem quer incluir ícones de redes sociais em sites.
+Social Links Project This project contains links to various social networks, made with HTML and CSS. Ideal for those who want to include social network icons on websites.
 
-Funcionalidades
-Links para redes sociais:
+Features Social network links:
 
 GitHub
 
@@ -11,16 +9,16 @@ LinkedIn
 
 Instagram
 
+Responsive design: Adjusts to different screen sizes.
 
-Design responsivo: Se ajusta a diferentes tamanhos de tela.
+Customizable CSS: Easy to change colors and styles.
 
-CSS personalizável: Fácil de mudar as cores e estilos.
+How to use
 
-Como Usar
-1. Baixe o projeto: Clique no botão verde "Code" e selecione "Download ZIP". Depois, extraia os arquivos em uma pasta no seu computador.
+Download the project: Click the green "Code" button and select "Download ZIP". Then, extract the files to a folder on your computer.
 
-2. Clone o repositório: Se preferir, use o Git para clonar o repositório. Execute o comando git clone https://github.com/pietros133/my-social-links-project.git.
+Clone the repository: If you prefer, use Git to clone the repository. Run the command git clone https://github.com/pietros133/my-social-links-project.git.
 
-3. Navegue até a pasta: Abra a pasta onde os arquivos foram extraídos ou clonados.
+Navigate to the folder: Open the folder where the files were extracted or cloned.
 
- 4. Abra o arquivo: Clique duas vezes no arquivo index.html para abri-lo em seu navegador.
+Open the file: Double-click the index.html file to open it in your browser.
