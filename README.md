@@ -42,9 +42,9 @@ Download the project: Click the green "Code" button and select "Download ZIP". T
         <br>
         <a href="https://www.instagram.com/dev.pietro/" class="links" target="_blank">Instagram</a>
     </div>
-</body>
+ </div>
+ </body> 
 </html>
-
 
 Clone the repository: If you prefer, use Git to clone the repository. Run the command git clone https://github.com/pietros133/my-social-links-project.git.
 
